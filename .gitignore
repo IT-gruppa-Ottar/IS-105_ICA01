@@ -3,11 +3,3 @@
 
 # IntelliJ project files
 .idea
-<<<<<<< HEAD
-!/.gitignore
-=======
-.iml
-
-# Folders
-_idea
->>>>>>> 964473d5ccb784f2b21ba47dee6653fa00b0774c
