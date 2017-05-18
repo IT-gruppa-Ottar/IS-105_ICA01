@@ -9,6 +9,7 @@ func main() {
 	fmt.Println("Joakim")
 	fmt.Println("Marius")
 	fmt.Println("Kristian")
+	fmt.Println("Christoffer")
 	fmt.Println("John")
 	fmt.Println("Frode")
 }
