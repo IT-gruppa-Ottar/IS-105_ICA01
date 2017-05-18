@@ -5,9 +5,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, 世界")
 	fmt.Println("Preben")
-	fmt.Printkn("Martin")
-	fmt.Printkn("Joakim")
-	fmt.Printkn("Marius")
-	fmt.Printkn("Kristian")
+	fmt.Println("Martin")
+	fmt.Println("Joakim")
+	fmt.Println("Marius")
+	fmt.Println("Kristian")
 	fmt.Println("John")
+	fmt.Println("Frode")
 }
