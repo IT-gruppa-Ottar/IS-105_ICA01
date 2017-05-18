@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("Preben")
 	fmt.Printkn("Martin")
 	fmt.Printkn("Joakim")
+	fmt.Printkn("Marius")
 }
